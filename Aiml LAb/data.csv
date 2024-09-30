@@ -1,0 +1,6 @@
+Supplier,Part,Quantity,Price,Location
+Supplier A,Part X,100,20.5,NY
+Supplier B,Part Y,150,30.0,LA
+Supplier C,Part Z,200,25.5,SF
+Supplier D,Part W,50,22.0,NY
+Supplier E,Part V,300,35.0,TX
